@@ -48,12 +48,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                <a href="https://github.com/Kurosawa-405/Welcome-to-Open-Source.git">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrrHaoW18bRJaRcGZnQvR0QFdZVI35WZ4T8w&s" width="100px;"
+                        alt="Vansh Grover" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b>Vansh Grover</b>
                     </sub>
                 </a>
             </td>
